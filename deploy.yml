@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: flask-deployment
-        image: 3booda24/flask-app:latest
+        image: amreltabeey/junior
         ports:
         - containerPort: 5000
